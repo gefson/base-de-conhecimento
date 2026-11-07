@@ -25,3 +25,7 @@ Ao aparecer a lista de discos vazia, pressionar SHIFT + F10 para abrir o prompt 
 diskpart e ENTER. Digite: list disk e ENTER. Digite: select disk e o número do disco. Digite: clean, ENTER.
 Digite: create partition primary e ENTER. EXIT e EXIT novamente.
 ***    ***    ***    ***
+
+## Pular conta Microsoft Windows 11
+SHIFT+F10>>OOBE\BYPASSNRO;
+***    ***    ***    ***
