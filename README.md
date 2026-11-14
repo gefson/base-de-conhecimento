@@ -35,3 +35,11 @@ Provavelmente há um mau funcionamento dos diodos utilizados para chavear entre
 alimentação pela bateria ou pela fonte do sistema. Faz-se necessário
 a troca da placa-mãe.
 ***    ***    ***    ***
+
+## Todos os ícones iguais no Windows
+Acesse no regedit:
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+
+Renomeie a chave FileExts para FileExts.old. Reinicie o Windows e verifique se o problema foi resolvido.
+***    ***    ***    ***
