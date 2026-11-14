@@ -29,3 +29,9 @@ Digite: create partition primary e ENTER. EXIT e EXIT novamente.
 ## Pular conta Microsoft Windows 11
 SHIFT+F10>>OOBE\BYPASSNRO;
 ***    ***    ***    ***
+
+## Computador não segura as configurações de CMOS e a bateria está com carga
+Provavelmente há um mau funcionamento dos diodos utilizados para chavear entre
+alimentação pela bateria ou pela fonte do sistema. Faz-se necessário
+a troca da placa-mãe.
+***    ***    ***    ***
