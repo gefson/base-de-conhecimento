@@ -13,7 +13,9 @@ winget upgrade  | winget upgrade --all --include-unknown --accept-package-agreem
 Menu iniciar Powershell em modo administrador:
 
 irm https://get.activated.win | iex
+
 ou
+
 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 ***    ***    ***    ***
 
